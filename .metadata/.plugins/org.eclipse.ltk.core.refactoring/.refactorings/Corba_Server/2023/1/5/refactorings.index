@@ -1,0 +1,7 @@
+1675059963677	Rename type 'ServerMain'
+1675060035216	Extract local variable 'orb'
+1675060627966	Extract local variable 'rootpoa'
+1675061989851	Extract local variable 'addobj'
+1675062612554	Extract local variable 'href'
+1675062825278	Extract local variable 'scref'
+1675062862192	Extract local variable 'path'

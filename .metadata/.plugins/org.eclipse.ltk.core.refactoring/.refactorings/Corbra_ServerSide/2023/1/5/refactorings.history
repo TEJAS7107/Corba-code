@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Corbra_ServerSide/src/idl_files/Add.idl&apos; to &apos;Addition.idl&apos;" description="Rename resource &apos;Add.idl&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/idl_files/Add.idl" name="Addition.idl" stamp="1675053199933" updateReferences="true"/>
+</session>

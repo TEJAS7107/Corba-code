@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="serverOp.AdditionObj"/>
+<fullyQualifiedTypeName name="AdditionApp.Addition"/>
+<fullyQualifiedTypeName name="com.sun.corba.se.internal.POA.POAORB"/>
+<fullyQualifiedTypeName name="AdditionApp.AdditionPOA"/>
+<fullyQualifiedTypeName name="com.sun.corba.se.internal.iiop.ORB"/>
+<fullyQualifiedTypeName name="org.omg.PortableServer.POAHelper"/>
+<fullyQualifiedTypeName name="Server.AdditionObj"/>
+<fullyQualifiedTypeName name="org.omg.CORBA.Object"/>
+<fullyQualifiedTypeName name="java.rmi.Naming"/>
+<fullyQualifiedTypeName name="org.omg.CosNaming.NamingContextHelper"/>
+<fullyQualifiedTypeName name="AdditionApp.AdditionHelper"/>
+<fullyQualifiedTypeName name="org.omg.CosNaming.NamingContextExtHelper"/>
+<fullyQualifiedTypeName name="org.omg.CosNaming.NamingContextExt"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="com.sun.corba.se.org.omg.CORBA.ORB"/>
+<fullyQualifiedTypeName name="org.omg.CORBA_2_3.ORB"/>
+<fullyQualifiedTypeName name="org.omg.CORBA.ORB"/>
+</qualifiedTypeNameHistroy>
